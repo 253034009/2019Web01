@@ -1,34 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>190808138赵越的个人博客——首页</title>
-</head>
-<body>
-
-<strong>
-<big>
-<a id="顶部">顶部</a>"欢迎光临我的个人博客！——首页"
-</big>
-</strong>
-
-<h1>
-<a href="index.html">基本信息</a> 
-<a href="about.html">关于我</a>
-<a href="diary.html">日志</a>
-<a href="works.html">作品</a>
-<a href="photo.html">照片</a>
-<a href="contact.html">联系</a>
-</h1>
-<h2>
-页内跳转
-<a href="#基本信息">基本信息</a>
-<a href="#关于我">关于我</a>
-<a href="#日志">日志</a>
-<a href="#作品">作品</a>
-<a href="#相册">相册</a>
-<a href="#联系">联系</a>
-<big>
 <strong>
 <p><a id="基本信息"></a></p>
 </strong>
@@ -71,27 +40,23 @@
 <p>蛤???????+1</p>
 <p><a href="#顶部">返回顶部</a></p>
 <p><a id="作品"></a>作品</p>
-<p><video width= "320" height= "240" controls= "controls">
-<source src = "rsc/123. mp4" type = "video/mp4"/>
-<source src = "rsc/456. ogg" type = "video/ogg"/>
-<source src = "rsc/34567. webm" type= "video/webm"/>
-</vobject></p>
 <p><a href="rsc/123.mp4">WindowsMovieMaker 样本视频</p>
 <p><a href="rsc/123.mp3">自录音频</p>
+<p><audio src="rsc/123. mp3"controls="controls"></p>
+<p><video src ="rsc/345.oog" controls ="controls"></p>
 <p><a href="#顶部">返回顶部</a></p>
 <p><<a id="相册"></a>相册</p>
-<p><img src="images/QQ图片20191011121009.jpg"alt="头像"width="400"height="400"/></p>
-<p><img src="images/QQ图片20191011121025.jpg"alt="头像"width="400"height="400"/></p>
-<p><img src="images/QQ图片20191011120936.jpg"alt="头像"width="400"height="400"/></p>
-<p><img src="images/QQ图片20191011121103.jpg"alt="头像"width="400"height="400"/></p>
-<p><img src="images/123.jpg"alt="头像"width="400"height="400"/></p>
-<p><img src="images/456.jpg"alt="头像"width="400"height="400"/></p>
-<p><img src="images/789.jpg"alt="头像"width="400"height="400"/></p>
+<p><img src="images/QQ图片20191011121009.jpg"alt="图形"width="400"height="400"/></p>
+<p><img src="images/QQ图片20191011121025.jpg"alt="图形"width="400"height="400"/></p>
+<p><img src="images/QQ图片20191011120936.jpg"alt="图形"width="400"height="400"/></p>
+<p><img src="images/QQ图片20191011121103.jpg"alt="图形"width="400"height="400"/></p>
+<p><img src="images/123.jpg"alt="图形"width="400"height="400"/></p>
+<p><img src="images/456.jpg"alt="图形"width="400"height="400"/></p>
+<p><img src="images/789.jpg"alt="图形"width="400"height="400"/></p>
 <p><p><a href="#顶部">返回顶部</a></p>
 <p><a id="联系">联系</a></p>
 <p>qq：253034009</p>
 <p>电话：18809586791</p>
 <p>邮箱：253034009@qq.com</p>
 <p><a href="#顶部">返回顶部</a></p>
-</body>
 </html>
