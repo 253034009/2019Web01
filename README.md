@@ -1,3 +1,35 @@
+<! doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>190808138赵越的个人博客——首页</title>
+</head>
+<body>
+
+<strong>
+<big>
+<a id="顶部">顶部</a>"欢迎光临我的个人博客！——首页"
+</big>
+</strong>
+
+<h1>
+<a href="index.html">基本信息</a> 
+<a href="about.html">关于我</a>
+<a href="diary.html">日志</a>
+<a href="works.html">作品</a>
+<a href="photo.html">照片</a>
+<a href="contact.html">联系</a>
+</h1>
+<h2>
+页内跳转
+<a href="#基本信息">基本信息</a>
+<a href="#关于我">关于我</a>
+<a href="#日志">日志</a>
+<a href="#作品">作品</a>
+<a href="#相册">相册</a>
+<a href="#联系">联系</a>
+<video src ="rsc/345.oog" controls ="controls">
+<big>
 <strong>
 <p><a id="基本信息"></a></p>
 </strong>
